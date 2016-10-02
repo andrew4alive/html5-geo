@@ -13,7 +13,7 @@
           showPosition,
       function(e){
           
-          selft.error=e;
+          self.error=e;
       }
       
       ,
